@@ -1,0 +1,4 @@
+-r requirements.txt
+cvxpy==1.6.6
+pystoned==0.7.5
+Mosek==11.0.22

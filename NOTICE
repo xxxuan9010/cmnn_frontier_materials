@@ -1,0 +1,7 @@
+Production frontier estimation research materials
+
+Based on cmnn_frontier, maintained by xxxuan9010, source commit 06619326390d5475987ac38109153d5851a8ebd3.
+
+The Apache License 2.0 is retained for the software. The release adds command-line experiment configuration, run metadata and documentation. Data-generation comments have been aligned with the executable expressions, and an unused commented baseline implementation has been removed. The core neural-network, FDH and DEA estimator logic follows the original implementation.
+
+The empirical application data originate from CSMAR; see application/README.md for provenance.

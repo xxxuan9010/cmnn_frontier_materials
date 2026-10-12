@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+simulation/output/
+outputs/
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.zip
+.DS_Store
+Thumbs.db
